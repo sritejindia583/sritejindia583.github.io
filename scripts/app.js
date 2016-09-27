@@ -11,5 +11,10 @@ myApp.config(['$routeProvider', function ($routeProvider) {
             templateUrl: 'templates/imagesGrid.html',
             controller: 'imagesController'
         }
+    ).when(
+        '/detail/:imageName', {
+            templateUrl: 'templates/detailGrid.html',
+            controller:'detailController'
+        }
     )
 }])
