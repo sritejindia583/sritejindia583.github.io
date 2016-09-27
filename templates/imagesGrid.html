@@ -1,6 +1,15 @@
-<div class="text-center">
-    <div class="col-md-6" ng-repeat="dp in images">
-        <img class="image-thumbnail" ng-src="{{dp.image}}" style="width: 75px; height: 100px"/>
-        {{dp.name}}
+<div class="container" ng-repeat="dp in images">
+    <div class="row">
+        <div class="col-sm-6 col-md-4">
+            <div class="thumbnail">
+                <img src="{{dp.image}}" alt="{{dp.name}}">
+                <div class="caption">
+                    <h3>{{dp.name}}</h3>
+                    <p>{{dp.description}}</p>
+                    <p><a href="#" class="btn btn-primary" role="button">More Details</a>
+                       <a href="#" class="btn btn-default" role="button">Reset</a></p>
+                </div>
+            </div>
+        </div>
     </div>
 </div>
