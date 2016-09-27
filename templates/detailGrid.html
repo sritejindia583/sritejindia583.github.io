@@ -1,8 +1,17 @@
-<div>
-    <div class="page-header">
-        <h2>{{imageDetails.name}}</h2>
-        <img class="thumbnail" ng-src="{{imageDetails.image}}" />
-        <br />
-        <textarea>{{imageDetails.description}}</textarea>
+<div class="container">
+
+    <div>
+        <div class="row">
+            <h2>{{imageDetails.name}}</h2>
+        </div>
+        <div class="row">
+            <div class="col-md-6">
+                <img class="thumbnail" ng-src="{{imageDetails.image}}" style="width: 390px; height: 520px" />
+            </div>
+            <div class="col-md-3">
+                <textarea>{{imageDetails.description}}</textarea>
+            </div>
+        </div>
     </div>
+
 </div>
