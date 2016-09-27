@@ -1,14 +1,11 @@
-<div class="row">
-<div class="container" ng-repeat="dp in images">
-
-        <div class="col-sm-6 col-md-4">
-            <div class="thumbnail">
-                <img src="{{dp.image}}" alt="{{dp.name}}">
-                <div class="caption">
-                    <h3>{{dp.name}}</h3>
-                    <p>{{dp.description}}</p>
-                    <p><a href="#/detail/{{dp.name}}" class="btn btn-primary" role="button">More Details</a>
-                       <a href="#" class="btn btn-default" role="button">Reset</a></p>
+<div class="container row">
+<div ng-repeat="dp in images">
+        <div class="col-sm-6 col-md-2">
+            <div class="hovereffect">
+                <img class="img-responsive" ng-src="{{dp.image}}" alt="{{dp.name}}" style="width: 168px; height: 168px;">
+               <div class="overlay">
+                    <h2 style="word-wrap: break-word">{{dp.name}}</h2>
+                    <p><a href="#/detail/{{dp.name}}" class="info" role="button">More Details</a></p>
                 </div>
             </div>
         </div>

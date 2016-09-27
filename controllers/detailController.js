@@ -3,7 +3,7 @@
  */
 'using strict'
 
-myApp.controller('detailController', ['$scope','$routeParams','imageService', function ($scope, $routeParams, imageService) {
+myApp.controller('detailController', ['$scope','$routeParams','imageService','$location', function ($scope, $routeParams, imageService, $location) {
     var parameter = $routeParams.imageName
     $scope.imageDetails = imageService.getDetail(parameter)
 }])
