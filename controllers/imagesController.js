@@ -3,6 +3,6 @@
  */
 'using strict'
 
-myApp.controller('imagesController', ['$scope', function ($scope) {
-    $scope.images = ''
+myApp.controller('imagesController', ['$scope','imageService', function ($scope, imageService) {
+    $scope.images = imageService.getImages()
 }])

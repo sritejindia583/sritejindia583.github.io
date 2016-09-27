@@ -5,3 +5,11 @@
 
 var myApp = angular.module('myApp', ['ngRoute'])
 
+myApp.config(['$routeProvider', function ($routeProvider) {
+    $routeProvider.when(
+        '/images', {
+            templateUrl: 'templates/imagesGrid.html',
+            controller: 'imagesController'
+        }
+    )
+}])
