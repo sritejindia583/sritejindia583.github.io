@@ -16,5 +16,12 @@ myApp.config(['$routeProvider', function ($routeProvider) {
             templateUrl: 'templates/detailGrid.html',
             controller:'detailController'
         }
+    ).when(
+      '/home', {
+          templateUrl: 'templates/home.html'
+        }
+    ).
+    otherwise(
+        {redirectTo: '/home'}
     )
 }])
