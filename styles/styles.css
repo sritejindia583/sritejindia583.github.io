@@ -2,6 +2,19 @@
     border: solid 2px #2e6da4;
 }
 
+img {
+    width: 168px;
+    height: 168px;
+    padding: 10px;
+    filter: grayscale(100%)
+}
+
+img#detailImage {
+    filter: grayscale(0%);
+    width: 430px;
+    height: 520px
+}
+
 .hovereffect {
     width:100%;
     height:100%;
