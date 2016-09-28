@@ -102,3 +102,7 @@ img#detailImage {
     -webkit-transition-delay:.2s;
     transition-delay:.2s;
 }
+
+#membersButton {
+    font-family: "Glyphicons Halflings";
+}

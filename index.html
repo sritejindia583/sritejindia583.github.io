@@ -23,12 +23,15 @@
     </header>
     <section>
         <div class="col-md-12 text-center">
+            <!--<a class="btn btn-primary btn-lg glyphicon glyphicon-arrow-down" id="membersButton" aria-hidden="true" href="#/images">Members</a>-->
 
+            <a href="#/images">
             <button type="button" class="btn btn-primary btn-lg">
                 <span class="glyphicon glyphicon-arrow-down" aria-hidden="true"></span>
-                <a href="#/images" style="color: ghostwhite">Members</a>
+                Members
             </button>
-            <button ng-controller="BtnController" type="button" class="btn info btn-lg" ng-click="backFunction()">
+            </a>
+            <button ng-controller="BtnController" type="button" class="btn btn-info btn-lg" ng-click="backFunction()">
                 <span class="glyphicon glyphicon-arrow-left" aria-hidden="true"></span>
                 Back
             </button>
