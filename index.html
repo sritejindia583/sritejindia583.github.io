@@ -15,7 +15,7 @@
     <script src="controllers/imagesController.js"></script>
     <script src="controllers/detailController.js"></script>
     <link rel="stylesheet" href="styles/styles.css">
-
+    <script src="controllers/btnController.js"></script>
 </head>
 <body>
     <header class="well well-sm">
@@ -27,6 +27,10 @@
             <button type="button" class="btn btn-primary btn-lg">
                 <span class="glyphicon glyphicon-arrow-down" aria-hidden="true"></span>
                 <a href="#/images" style="color: ghostwhite">Members</a>
+            </button>
+            <button ng-controller="BtnController" type="button" class="btn info btn-lg" ng-click="backFunction()">
+                <span class="glyphicon glyphicon-arrow-left" aria-hidden="true"></span>
+                Back
             </button>
             <br />
             <ng-view></ng-view>
