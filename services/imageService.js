@@ -24,7 +24,13 @@ myApp.factory('imageService', function () {
         {name: 'Vishal Urankar', image: 'images/vishal.jpg', description: ''},
         {name: 'Shradhha Lokhande', image: 'images/shradha.jpg', description: ''},
         {name: 'Krishna Kapadia', image: 'images/krishna.jpg', description: ''},
-        {name: 'Karthik Bafna', image: 'images/kathik.jpg', description: ''}
+        {name: 'Karthik Bafna', image: 'images/kathik.jpg', description: ''},
+        {name: 'Himanshu Pandey', image: 'images/himanshu.jpg', description: ''},
+        {name: 'Sachin Neema', image: 'images/na.jpeg', description: ''},
+        {name: 'Deepali Dodamani', image: 'images/na.jpeg', description: ''},
+        {name: 'Amit Singh Prakash', image: 'images/amit.jpg', description: ''},
+        {name: 'Carol Christine Dias', image: 'images/carol.jpg', description: ''},
+        {name: 'Neelkanth Patel', image: 'images/neel.jpg', description: ''},
     ];
     return {
         getImages: function () {

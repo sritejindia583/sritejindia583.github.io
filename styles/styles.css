@@ -6,13 +6,16 @@ img {
     width: 168px;
     height: 168px;
     padding: 10px;
-    filter: grayscale(100%)
+    filter: grayscale(100%);
+    color: #080808;
+    font-weight: bold;
+    word-wrap: break-word;
 }
 
 img#detailImage {
     filter: grayscale(0%);
     width: 430px;
-    height: 520px
+    height: 520px;
 }
 
 .hovereffect {
