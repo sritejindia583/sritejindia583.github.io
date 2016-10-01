@@ -19,8 +19,8 @@ img#detailImage {
 }
 
 .hovereffect {
-    width:100%;
-    height:100%;
+    width: 168px;
+    height: 168px;
     float:left;
     overflow:hidden;
     position:relative;
@@ -29,8 +29,8 @@ img#detailImage {
 }
 
 .hovereffect .overlay {
-    width:100%;
-    height:100%;
+    width: 168px;
+    height: 168px;
     position:absolute;
     overflow:hidden;
     top:0;

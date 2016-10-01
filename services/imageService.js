@@ -8,12 +8,12 @@ myApp.factory('imageService', function () {
         {
             name: 'Vijay Kumar',
             image: 'images/vijay kumar.jpg',
-            description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam pellentesque, arcu eget euismod ultrices, mauris tortor dapibus arcu, at ullamcorper sem quam ut neque. Pellentesque eget metus aliquam, lobortis magna non, blandit massa. Donec laoreet nisl sit amet velit auctor, ac dictum massa lobortis. Integer dolor elit, consequat at mattis id, eleifend vel lacus. Integer sed tempor elit, sit amet feugiat nisl. Sed sollicitudin ante ligula, vel congue diam ultrices et. Etiam pharetra est augue, ut ultrices leo molestie sit amet. Nam vel malesuada magna, id tristique tellus. Vestibulum ut diam vitae sapien laoreet imperdiet in in tortor. Nullam vehicula pulvinar fringilla.'
+            description: 'It\'s been always pleasure to work with you. Thanks for the most memorable experiences and parties. I hope we continue our travelling for the rest of the times.'
         },
         {
             name: 'Soniya Khandhar',
             image: 'images/soniya.jpg',
-            description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam pellentesque, arcu eget euismod ultrices, mauris tortor dapibus arcu, at ullamcorper sem quam ut neque. Pellentesque eget metus aliquam, lobortis magna non, blandit massa. Donec laoreet nisl sit amet velit auctor, ac dictum massa lobortis. Integer dolor elit, consequat at mattis id, eleifend vel lacus. Integer sed tempor elit, sit amet feugiat nisl. Sed sollicitudin ante ligula, vel congue diam ultrices et. Etiam pharetra est augue, ut ultrices leo molestie sit amet. Nam vel malesuada magna, id tristique tellus. Vestibulum ut diam vitae sapien laoreet imperdiet in in tortor. Nullam vehicula pulvinar fringilla.'
+            description: 'I cannot forget your support during this project tenure. Thanks is a very small word. But still thanks for continuously reviewing my work products, suggesting valuable implications, assigning me in interface, where I exposed good tools and processes which inspired me to learn more new technologies. Always glad to work in your team.'
         },
         {
             name: 'Sanjeev Kumar Suman',
@@ -123,12 +123,12 @@ myApp.factory('imageService', function () {
         {
             name: 'Amit Singh Prakash',
             image: 'images/amit.jpg',
-            description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam pellentesque, arcu eget euismod ultrices, mauris tortor dapibus arcu, at ullamcorper sem quam ut neque. Pellentesque eget metus aliquam, lobortis magna non, blandit massa. Donec laoreet nisl sit amet velit auctor, ac dictum massa lobortis. Integer dolor elit, consequat at mattis id, eleifend vel lacus. Integer sed tempor elit, sit amet feugiat nisl. Sed sollicitudin ante ligula, vel congue diam ultrices et. Etiam pharetra est augue, ut ultrices leo molestie sit amet. Nam vel malesuada magna, id tristique tellus. Vestibulum ut diam vitae sapien laoreet imperdiet in in tortor. Nullam vehicula pulvinar fringilla.'
+            description: 'Thanks for all the support and cooperation. Thanks for valuable guidance in times of need and making our life easier in the project. '
         },
         {
             name: 'Carol Christine Dias',
             image: 'images/carol.jpg',
-            description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam pellentesque, arcu eget euismod ultrices, mauris tortor dapibus arcu, at ullamcorper sem quam ut neque. Pellentesque eget metus aliquam, lobortis magna non, blandit massa. Donec laoreet nisl sit amet velit auctor, ac dictum massa lobortis. Integer dolor elit, consequat at mattis id, eleifend vel lacus. Integer sed tempor elit, sit amet feugiat nisl. Sed sollicitudin ante ligula, vel congue diam ultrices et. Etiam pharetra est augue, ut ultrices leo molestie sit amet. Nam vel malesuada magna, id tristique tellus. Vestibulum ut diam vitae sapien laoreet imperdiet in in tortor. Nullam vehicula pulvinar fringilla.'
+            description: 'Thanks for your cooperation.  '
         },
         {
             name: 'Neelkanth Patel',
