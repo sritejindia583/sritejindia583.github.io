@@ -2,15 +2,16 @@
 
     <div>
         <div class="row">
-            <h2>{{imageDetails.name}}</h2>
+            <h2 class="imageDetailName">{{imageDetails.name}}</h2>
 
         </div>
         <div class="row">
-            <div class="col-md-4">
+            <div class="col-md-5 col-xs-4">
                 <img id="detailImage" class="thumbnail" ng-src="{{imageDetails.image}}" />
             </div>
-            <div class="col-md-3">
-                <blockquote>{{imageDetails.description}}</blockquote>
+            <div class="col-md-7 col-xs-12">
+                <br/>
+                <blockquote class="imageDescription"><em>{{imageDetails.description}}</em></blockquote>
             </div>
         </div>
     </div>
