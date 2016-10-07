@@ -53,47 +53,47 @@ myApp.factory('imageService', function () {
         {
             name: 'Richa Prasad',
             image: 'images/richa.jpg',
-            description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam pellentesque, arcu eget euismod ultrices, mauris tortor dapibus arcu, at ullamcorper sem quam ut neque. Pellentesque eget metus aliquam, lobortis magna non, blandit massa. Donec laoreet nisl sit amet velit auctor, ac dictum massa lobortis. Integer dolor elit, consequat at mattis id, eleifend vel lacus. Integer sed tempor elit, sit amet feugiat nisl. Sed sollicitudin ante ligula, vel congue diam ultrices et. Etiam pharetra est augue, ut ultrices leo molestie sit amet. Nam vel malesuada magna, id tristique tellus. Vestibulum ut diam vitae sapien laoreet imperdiet in in tortor. Nullam vehicula pulvinar fringilla.'
+            description: 'Some miracles happen in life without any prior notice. I would have missed it if I hadn\'t participate in interface testing. Learnt a lot from you.  Hope to work together in future assignments.'
         },
         {
             name: 'Suchandrima Das',
             image: 'images/suchi.jpg',
-            description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam pellentesque, arcu eget euismod ultrices, mauris tortor dapibus arcu, at ullamcorper sem quam ut neque. Pellentesque eget metus aliquam, lobortis magna non, blandit massa. Donec laoreet nisl sit amet velit auctor, ac dictum massa lobortis. Integer dolor elit, consequat at mattis id, eleifend vel lacus. Integer sed tempor elit, sit amet feugiat nisl. Sed sollicitudin ante ligula, vel congue diam ultrices et. Etiam pharetra est augue, ut ultrices leo molestie sit amet. Nam vel malesuada magna, id tristique tellus. Vestibulum ut diam vitae sapien laoreet imperdiet in in tortor. Nullam vehicula pulvinar fringilla.'
+            description: 'It\'s a great pleasure working with you. All the best for your future.'
         },
         {
             name: 'Vivek Trivedi',
             image: 'images/vivek.jpg',
-            description: ''
+            description: 'Thanks for all the encouragement and support. I had enjoyed a lot under your team sir. '
         },
         {
             name: 'Pratyush Kushwah',
             image: 'images/pratyush.jpg',
-            description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam pellentesque, arcu eget euismod ultrices, mauris tortor dapibus arcu, at ullamcorper sem quam ut neque. Pellentesque eget metus aliquam, lobortis magna non, blandit massa. Donec laoreet nisl sit amet velit auctor, ac dictum massa lobortis. Integer dolor elit, consequat at mattis id, eleifend vel lacus. Integer sed tempor elit, sit amet feugiat nisl. Sed sollicitudin ante ligula, vel congue diam ultrices et. Etiam pharetra est augue, ut ultrices leo molestie sit amet. Nam vel malesuada magna, id tristique tellus. Vestibulum ut diam vitae sapien laoreet imperdiet in in tortor. Nullam vehicula pulvinar fringilla.'
+            description: 'Aap tho malik hein malik.'
         },
         {
             name: 'Natraj Ramamoorty',
             image: 'images/natraj.jpg',
-            description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam pellentesque, arcu eget euismod ultrices, mauris tortor dapibus arcu, at ullamcorper sem quam ut neque. Pellentesque eget metus aliquam, lobortis magna non, blandit massa. Donec laoreet nisl sit amet velit auctor, ac dictum massa lobortis. Integer dolor elit, consequat at mattis id, eleifend vel lacus. Integer sed tempor elit, sit amet feugiat nisl. Sed sollicitudin ante ligula, vel congue diam ultrices et. Etiam pharetra est augue, ut ultrices leo molestie sit amet. Nam vel malesuada magna, id tristique tellus. Vestibulum ut diam vitae sapien laoreet imperdiet in in tortor. Nullam vehicula pulvinar fringilla.'
+            description: 'It\'s a great experience working with you. Thanks for all the support and cooperation.'
         },
         {
             name: 'Nikhil Gulati',
             image: 'images/nikhil.jpg',
-            description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam pellentesque, arcu eget euismod ultrices, mauris tortor dapibus arcu, at ullamcorper sem quam ut neque. Pellentesque eget metus aliquam, lobortis magna non, blandit massa. Donec laoreet nisl sit amet velit auctor, ac dictum massa lobortis. Integer dolor elit, consequat at mattis id, eleifend vel lacus. Integer sed tempor elit, sit amet feugiat nisl. Sed sollicitudin ante ligula, vel congue diam ultrices et. Etiam pharetra est augue, ut ultrices leo molestie sit amet. Nam vel malesuada magna, id tristique tellus. Vestibulum ut diam vitae sapien laoreet imperdiet in in tortor. Nullam vehicula pulvinar fringilla.'
+            description: 'Gullu. It\'s has been wonderful journey. I don\'t want to say thanks because it will be very small word and friends ke beech mein thanks nahi hothe.'
         },
         {
             name: 'Prateek Shinde',
             image: 'images/prateek.jpg',
-            description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam pellentesque, arcu eget euismod ultrices, mauris tortor dapibus arcu, at ullamcorper sem quam ut neque. Pellentesque eget metus aliquam, lobortis magna non, blandit massa. Donec laoreet nisl sit amet velit auctor, ac dictum massa lobortis. Integer dolor elit, consequat at mattis id, eleifend vel lacus. Integer sed tempor elit, sit amet feugiat nisl. Sed sollicitudin ante ligula, vel congue diam ultrices et. Etiam pharetra est augue, ut ultrices leo molestie sit amet. Nam vel malesuada magna, id tristique tellus. Vestibulum ut diam vitae sapien laoreet imperdiet in in tortor. Nullam vehicula pulvinar fringilla.'
+            description: ':).'
         },
         {
             name: 'Vishal Urankar',
             image: 'images/vishal.jpg',
-            description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam pellentesque, arcu eget euismod ultrices, mauris tortor dapibus arcu, at ullamcorper sem quam ut neque. Pellentesque eget metus aliquam, lobortis magna non, blandit massa. Donec laoreet nisl sit amet velit auctor, ac dictum massa lobortis. Integer dolor elit, consequat at mattis id, eleifend vel lacus. Integer sed tempor elit, sit amet feugiat nisl. Sed sollicitudin ante ligula, vel congue diam ultrices et. Etiam pharetra est augue, ut ultrices leo molestie sit amet. Nam vel malesuada magna, id tristique tellus. Vestibulum ut diam vitae sapien laoreet imperdiet in in tortor. Nullam vehicula pulvinar fringilla.'
+            description: 'It\'s a great fun working with you. All the best for your future.'
         },
         {
             name: 'Shradhha Lokhande',
             image: 'images/shradha.jpg',
-            description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam pellentesque, arcu eget euismod ultrices, mauris tortor dapibus arcu, at ullamcorper sem quam ut neque. Pellentesque eget metus aliquam, lobortis magna non, blandit massa. Donec laoreet nisl sit amet velit auctor, ac dictum massa lobortis. Integer dolor elit, consequat at mattis id, eleifend vel lacus. Integer sed tempor elit, sit amet feugiat nisl. Sed sollicitudin ante ligula, vel congue diam ultrices et. Etiam pharetra est augue, ut ultrices leo molestie sit amet. Nam vel malesuada magna, id tristique tellus. Vestibulum ut diam vitae sapien laoreet imperdiet in in tortor. Nullam vehicula pulvinar fringilla.'
+            description: 'It\'s a great pleasure working with you. Have enjoyed every moment. All the best.'
         },
         {
             name: 'Krishna Kapadia',
@@ -111,14 +111,9 @@ myApp.factory('imageService', function () {
             description: 'It\'s great fun working with you. Thanks for everything. All the best for your future.'
         },
         {
-            name: 'Sachin Neema',
-            image: 'images/na.jpeg',
-            description: 'Thanks for all moral support and cooperation. Thanks for being friendly with us all the times.'
-        },
-        {
             name: 'Deepali Dodamani',
             image: 'images/deepali.jpg',
-            description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam pellentesque, arcu eget euismod ultrices, mauris tortor dapibus arcu, at ullamcorper sem quam ut neque. Pellentesque eget metus aliquam, lobortis magna non, blandit massa. Donec laoreet nisl sit amet velit auctor, ac dictum massa lobortis. Integer dolor elit, consequat at mattis id, eleifend vel lacus. Integer sed tempor elit, sit amet feugiat nisl. Sed sollicitudin ante ligula, vel congue diam ultrices et. Etiam pharetra est augue, ut ultrices leo molestie sit amet. Nam vel malesuada magna, id tristique tellus. Vestibulum ut diam vitae sapien laoreet imperdiet in in tortor. Nullam vehicula pulvinar fringilla.'
+            description: 'Thanks for your great support. It\'s been memorable journey. You have been a great inspiration for me.'
         },
         {
             name: 'Amit Singh Prakash',
@@ -146,9 +141,14 @@ myApp.factory('imageService', function () {
             description: 'Thanks for everything. I remember I\'ve always reopened the SORB defect for two months continuously and couple of times changed to major. Thanks for being cool and everytime and it\'s been great inspiration.'
         },
         {
-            name: 'Anand Prakash Singh',
-            image: 'images/anand.jpg',
-            description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam pellentesque, arcu eget euismod ultrices, mauris tortor dapibus arcu, at ullamcorper sem quam ut neque. Pellentesque eget metus aliquam, lobortis magna non, blandit massa. Donec laoreet nisl sit amet velit auctor, ac dictum massa lobortis. Integer dolor elit, consequat at mattis id, eleifend vel lacus. Integer sed tempor elit, sit amet feugiat nisl. Sed sollicitudin ante ligula, vel congue diam ultrices et. Etiam pharetra est augue, ut ultrices leo molestie sit amet. Nam vel malesuada magna, id tristique tellus. Vestibulum ut diam vitae sapien laoreet imperdiet in in tortor. Nullam vehicula pulvinar fringilla.'
+            name: 'Ankush Kshirsagar',
+            image: 'images/ankush.jpg',
+            description: 'Many many thanks for bearing me in the last few days. It\'s a great pleasure working with you. '
+        },
+        {
+            name: 'Debashish Barik',
+            image: 'images/debashish.jpg',
+            description: 'It\'s always fun to work with you Deba. Enjoyed a lot while defect fixes, lunches and parties.'
         }
     ];
     return {
@@ -157,8 +157,6 @@ myApp.factory('imageService', function () {
         },
         getDetail: function (name) {
             for (var item in imagesData) {
-                /* console.log(item)
-                 console.log(imagesData[item])*/
                 if(imagesData[item].name == name) {
                     return imagesData[item]
                 } else {
